@@ -1,10 +1,11 @@
 
 function isEven(num){
     if(num%2==0){
-        document.write(num+" is even");
+        alert(num+" is even");
     }    
     else{
-        document.write(num+" is odd");
+        alert(num+" is odd");
     }
 }
 isEven(11);
+isEven(22);
