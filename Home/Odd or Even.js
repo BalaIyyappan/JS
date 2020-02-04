@@ -1,10 +1,10 @@
 
 function isEven(num){
     if(num%2==0){
-        alert(num+" is even");
+        alert("true");
     }    
     else{
-        alert(num+" is odd");
+        alert("false");
     }
 }
 isEven(11);
