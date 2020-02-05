@@ -1,5 +1,5 @@
 var car=['BMW','AUDI','BENZ','RR','JAGUAR'];
-/*
+/*To insert at the end
 car[car.length]=prompt("Enter any car");
 console.log(car);
 
